@@ -1,4 +1,5 @@
-# DataScience
+# Introduction to Python
+
 This repository consists of codes that give an introduction to Python. 
 Sequence to be followed:
   1. Anaconda tutorial.ipynb - Introduction and guide to download Anaconda Navigator on your windows machine
