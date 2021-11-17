@@ -1,5 +1,5 @@
 # Introduction to Python
-## This repository consists of codes that give an introduction to basic and some applications of Python and its libraries -  
+## This repository consists of codes that give an introduction to basics and some applications of Python and its libraries -  
 Sequence to be followed:
   1. <b>Anaconda tutorial.ipynb</b> - Introduction and guide to download Anaconda Navigator on your windows machine
   2. <b>Python Introduction.ipynb</b> - Gives a brief Introduction of Python language and its basic commands
