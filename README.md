@@ -1,6 +1,6 @@
 # Introduction to Python
 ## This repository gives an introduction to basics and some applications of Python and its libraries 
-### (Study Material for course MYSM 492 at BSEN, UNL) -
+### Study Material for course MYSM 492 at BSEN, UNL (Spring, 2022) -
 This is a prep for course AGEN 460/860 for Spring 2022<br>
 Sequence to be followed:
   1. <b>Anaconda tutorial.ipynb</b> - Introduction and guide to download Anaconda Navigator on your windows machine
