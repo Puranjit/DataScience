@@ -6,7 +6,7 @@ Sequence to be followed:
   1. <b>Anaconda tutorial.ipynb</b> - Introduction and guide to download Anaconda Navigator on your windows machine
   2. <b>Python for fun.ipynb</b> - This jupyter notebook gives a brief introduction on some of the applications of Python packages
   3. <b>Python Introduction.ipynb</b> - Gives a brief Introduction of Python language and its basic commands
-  4. <b>Data Visualizatio Basic</b> - Introduction on how to read .csv files using Pandas and playing around with data
+  4. <b>Data Visualizatio Basic</b> - Introduction on how to read .csv files using Pandas and playing around with data. I have used AMIS_2021.csv and HPRCC.csv file in this file
   5. <b>Python Statements.ipynb</b> - Introduction to Python statements
   6. <b>Methods and functions.ipynb</b> - Explanation of concepts of methods and functions in Python with examples
   7. <b>NumPy.ipynb</b> - This is a very important Python library to play around with single/multi dimensional arrays and matrices
