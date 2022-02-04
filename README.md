@@ -1,5 +1,5 @@
 # Introduction to Python
-## This repository gives an introduction to basics and some applications of Python and its libraries 
+## This repository gives an introduction to basics concepts of Python and some applications of its libraries 
 ### Study Material for course MYSM 492/892 at BSEN, UNL (Spring, 2022) - <br>
 
 Sequence to be followed:
