@@ -18,3 +18,5 @@ Sequence to be followed:
   13. <b>NumPy - Multiplication and Array Broadcasting.ipynb</b> - This is an add-on to Numpy.ipynb file with more examples for array multiplication broadcasting
   14. <b>Pandas Introduction.ipynb</b> - Pandas is an import Python library that is used for data manipulation and analysis, 'btc-market-price.csv' is used in this file
   15. <b>Data Visualization series</b> - Part A, B & C - These jupyter notebooks explain on how to use various data visualization tools
+  16. <b>Simple Linear Regression.ipynb</b> - Explain concepts of Regression and plotting Simple Linear Regression using NumPy (Python library)
+  17. <b>Rasterio Introduction.ipynb</b> - How to read, write and play around with raster data
