@@ -1,0 +1,16 @@
+NDVI (Normalized Difference Vegetation index) = (NIR - Red)/(NIR + Red).
+https://eos.com/make-an-analysis/ndvi/
+https://www.usgs.gov/landsat-missions/landsat-normalized-difference-vegetation-index#:~:text=(NIR%20%2D%20R)%20%2F%20(,Band%205%20%2B%20Band%204).
+
+
+NDRE (Normalized Difference Red Edge index) = (NIR - RedEdge)/(NIR + RedEdge).
+https://eos.com/industries/agriculture/ndre/
+https://micasense.com/what-is-ndre/
+
+
+GNDVI (Green Normalized Difference Vegetation index) = (NIR - Green)/(NIR + Green).
+https://pro.arcgis.com/en/pro-app/latest/arcpy/image-analyst/gnvdi.htm
+https://www.soft.farm/en/blog/vegetation-indices-ndvi-evi-gndvi-cvi-true-color-140
+
+
+NIR stands for near infrared. 
