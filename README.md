@@ -1,6 +1,5 @@
 # Introduction to Python
-## This repository gives an introduction to basics concepts of Python and some applications of its libraries 
-#### Study Material for course:- Techniques and Technologies in Digital Agriculture [MYSM 492/892] at BSEN, UNL (Spring, 2022) - <br>
+## This repository gives an introduction to basics concepts of Python and some applications of its libraries (Data Science)
 
 Sequence to be followed:
   1. <b>Anaconda tutorial.ipynb</b> - Introduction and guide to download Anaconda Navigator on your windows machine
