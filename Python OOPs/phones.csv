@@ -1,0 +1,4 @@
+name,price,quantity,broken_phones
+'iPhone13', 89000, 3, 1
+'iPhone13Pro', 119000, 3, 1
+'iPhone13ProMax', 139000, 3, 1
