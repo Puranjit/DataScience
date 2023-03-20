@@ -1,4 +1,4 @@
-# Introduction to Python
+# Introduction to Python and Data Science
 ## This repository gives an introduction to basics concepts of Python and some applications of its libraries (Data Science)
 
 Sequence to be followed:
@@ -19,3 +19,4 @@ Sequence to be followed:
   15. <b>Data Visualization series</b> - Part A, B & C - These jupyter notebooks explain on how to use various data visualization tools
   16. <b>Simple Linear Regression.ipynb</b> - Explain concepts of Regression and plotting Simple Linear Regression using NumPy (Python library)
   17. <b>Rasterio Introduction.ipynb</b> - How to read, write and play around with raster data
+  18. <b> Python OOPs</b> - You could refer to this folder to learn some advanced python concepts related to Object oriented programming concepts
