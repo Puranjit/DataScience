@@ -1,5 +1,5 @@
 # Introduction to Python and Data Science
-## This repository gives an introduction to basics concepts of Python and some applications of its libraries (Data Science)
+## This repository gives an introduction to basics concepts of Python and Data Science applications using Python
 
 Sequence to be followed:
   1. <b>Anaconda tutorial.ipynb</b> - Introduction and guide to download Anaconda Navigator on your windows machine
